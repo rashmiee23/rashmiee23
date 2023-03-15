@@ -5,6 +5,15 @@
 🌱 I’m currently learning **React JS, Front-End Development, AWS, C++.**
 
 👯 I’m looking to collaborate on **Web Development Projects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+
+<a href="https://www.linkedin.com/in/rashmi-angane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashmi-angane/" height="30" width="40" /></a>
+          
+
+</p>
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
