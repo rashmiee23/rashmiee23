@@ -1,20 +1,10 @@
-### Hi there 👋 Rashmi Angane
+<h1 align="center">Hi 👋, I'm Rashmi</h1>
+<h3 align="center">Front End Engineer</h3>
+🔭 I’m currently working on **Web Development Projects**
 
-<!--
-**rashmiee23/rashmiee23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **React JS, Front-End Development, AWS, C++.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning  stuff to be a Full-Stack Web Developer!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3> 🌱 I’m currently learning  stuff to be a Full-Stack Web Developer! </h3>
+👯 I’m looking to collaborate on **Web Development Projects**
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
