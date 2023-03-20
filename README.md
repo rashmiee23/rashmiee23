@@ -9,7 +9,7 @@
 
 📫 How to reach me **ras.ang1161@gmail.com**
 
-👯 I’m looking to collaborate on **Web Development Projects**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
