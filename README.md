@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmi</h1>
 <h3 align="center">Data Analyst</h3>
 
-🔭 I’m currently working on **Web Development Projects**
 
 🌱 I’m currently learning ** Power BI, Python, SQL, Excel**
 
