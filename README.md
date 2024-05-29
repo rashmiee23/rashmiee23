@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethikaputcha&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiangane" /> </p>
 
 🌱 I’m currently learning ** Power BI, Python, SQL, Excel**
+💬 Ask me about **Power BI,Excel**
 
 
 
