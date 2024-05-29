@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Rashmi Angane </h1>
+<h3 align="center">Embarking on a journey as a Data Analyst</h3>
 
 
 🌱 I’m currently learning ** Power BI, Python, SQL, Excel**
